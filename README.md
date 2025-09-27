@@ -2,38 +2,6 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Most Popular FOODS in the World</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #fff8e7;
-      color: #333;
-      margin: 20px;
-    }
-    h1 {
-      text-align: center;
-      color: #d35400;
-    }
-    a {
-      color: #2980b9;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    figure {
-      text-align: center;
-      margin: 20px 0;
-    }
-    img {
-      border-radius: 10px;
-      box-shadow: 0px 4px 8px rgba(0,0,0,0.2);
-    }
-    figcaption {
-      margin-top: 8px;
-      font-style: italic;
-    }
-  </style>
 </head>
 <body>
   <h1>Most Popular FOODS in the World</h1>
